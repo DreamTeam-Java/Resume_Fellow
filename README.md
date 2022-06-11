@@ -1,5 +1,5 @@
-## Resume Grindr: 
-### Building a resume for you not the other way!
+# Resume Grindr: 
+## Building a resume for you not the other way!
 The Dream Team (Raul, Scott, Abdulahi & Michael)
 ****
 
@@ -22,5 +22,6 @@ The Dream Team (Raul, Scott, Abdulahi & Michael)
 - 3c Creates and posts resume.
  ****
 
+# Links and Resources
 
 
