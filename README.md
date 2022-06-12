@@ -1,4 +1,4 @@
-# Resume Grindr: 
+# Resume Fellows: 
 ## Building a resume for you not the other way!
 The Dream Team (Raul, Scott, Abdulahi & Michael)
 ****
