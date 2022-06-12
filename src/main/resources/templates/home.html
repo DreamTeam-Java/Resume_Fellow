@@ -5,6 +5,7 @@
     <title>Home page</title>
 </head>
 <body>
+<nav th:replace="fragments/header :: header"></nav>
 <h1 th:text="${'Welcome, ' + username + ' , your are in app'}"></h1>
 
 <form action="/add-post" th:method="post">
