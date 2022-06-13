@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>signedinheader</title>
+</head>
+<body>
+<nav id="header" th:fragment="header">
+<a  id="logo" href="/" >
+    <img id="logo-image" src="/images/money-resume.jpg" alt="company-icon">
+</a>
+<ul id="nav-items">
+    <!--Resumes link to 1. my resume's templates 2. all my made resume's (archived?)-->
+    <!--<li th:if="${loggedin != null}"><a href="/myresumes"> My Resume's</a></li>-->
+<!--    Needs a sign out option-->
+    <a href="/">Logout</a>
+    <li><a href="/aboutus">About Us</a></li>
+</ul>
+</nav>
+</body>
+</html>
