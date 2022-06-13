@@ -20,6 +20,18 @@ public class UserController
     {
         return "index.html";
     }
+    @GetMapping("/parent-create-or-login")
+    public String getCreateOrLogin()
+    {
+        return "login.html";
+    }
+    @GetMapping("/aboutus")
+    public String getAboutus()
+    {
+        return "aboutus.html";
+    }
+
+
 
     @GetMapping("/signup")
     public String getSignUpPage(){
